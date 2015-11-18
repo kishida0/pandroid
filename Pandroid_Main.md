@@ -1,0 +1,1 @@
+**Pandroid** project documentation is at http://www.omappedia.com/wiki/Release_Notes
